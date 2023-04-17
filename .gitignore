@@ -1,0 +1,6 @@
+#output files
+*.xlsx
+*.json
+
+#cache files
+*.pyc

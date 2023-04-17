@@ -98,7 +98,7 @@ def CleanFullDump(filedir, exportJson=None, exportExcel=None):
     df_nodup = df_data[~df_data.duplicated()]
 
     # remove self/test ids created when developing the method
-    dirMain = Path('C:\DSX_Vis') # your path for SelfLevelsIDs.csv file
+    dirMain = Path(r'C:\DSX_Vis\support') # your path for SelfLevelsIDs.csv file
     df_IDsExc = pd.read_csv(f'{dirMain}/SelfLevelsIDs.csv')
     idsList = df_IDsExc['ID'].values.tolist()
     df_CleanFull = df_nodup[~df_nodup['id'].isin(idsList)]
@@ -109,15 +109,15 @@ def CleanFullDump(filedir, exportJson=None, exportExcel=None):
     # exporting results
     # exporting as json
     if exportJson:
-        with open(f'{dirMain}/{datetime.now().date()}_FullClean.json', 'w') as outfile:
+        with open(f'{dirMain}/export/{datetime.now().date()}_FullClean.json', 'w') as outfile:
             json.dump(df_CleanFull.T.to_dict(),outfile,indent=4)
         df = pd.read_json(f'{dirMain}/{datetime.now().date()}_FullClean.json')
-        print(f"json file saved in {dirMain} at {datetime.now()}")
+        print(f"json file saved in {dirMain}/export/ at {datetime.now()}")
 
     # exporting as excel
     if exportExcel:
-        df_CleanFull.to_excel(f'{dirMain}/{datetime.now().date()}_FullClean.xlsx')
-        print(f"Excel file saved in {dirMain} at {datetime.now()}")
+        df_CleanFull.to_excel(f'{dirMain}/export/{datetime.now().date()}_FullClean.xlsx')
+        print(f"Excel file saved in {dirMain}/export/ at {datetime.now()}")
 
     return df_CleanFull
 
@@ -128,7 +128,7 @@ def CleanFullDump(filedir, exportJson=None, exportExcel=None):
 def DownloadEntriesVid(fileFullPath, originalBudget, levelName=None):
 
     # folder to save the videos and thumbnails
-    desktopfolder = Path(f"{Path.cwd()}/{levelName.replace(' ', '')}/")  # desktopfolder = Path('/'+ levelName.replace(' ', '') + '/')
+    desktopfolder = Path(f"{Path.cwd()}/video-thumb/{levelName.replace(' ', '')}/")  # desktopfolder = Path('/'+ levelName.replace(' ', '') + '/')
 
     # check if folder already exists and creates it if not
     if not desktopfolder.exists():

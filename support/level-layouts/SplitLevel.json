@@ -1,0 +1,1312 @@
+{
+  "m_Bridge": {
+    "m_Version": 8,
+    "m_Anchors": [
+      {
+        "m_Pos": {
+          "x": 0,
+          "y": 8.75,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "f8198596-6b66-4b57-9936-ede4b522716b"
+      },
+      {
+        "m_Pos": {
+          "x": 20,
+          "y": 8.75,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "425a3d47-5879-414b-9814-8b69ee1749e6"
+      },
+      {
+        "m_Pos": {
+          "x": 4,
+          "y": 5.75,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "d329e196-14ed-48e0-8344-8e9bc5388546"
+      },
+      {
+        "m_Pos": {
+          "x": 16,
+          "y": 5.75,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "9ec5015e-c9de-4078-baf3-ed30130abc75"
+      }
+    ],
+    "m_Joints": [
+      {
+        "m_Pos": {
+          "x": 6,
+          "y": 5.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "651f30fc-8261-437e-bce3-58d367161213"
+      },
+      {
+        "m_Pos": {
+          "x": 8,
+          "y": 5.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "6209832c-6522-4463-a2c8-b6a1639f129d"
+      },
+      {
+        "m_Pos": {
+          "x": 10,
+          "y": 5.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "cf6713e3-eef6-44e7-979f-fdd83d44921b"
+      },
+      {
+        "m_Pos": {
+          "x": 12,
+          "y": 5.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "d21dcb05-4d25-4526-8e04-4fb3a2db050c"
+      },
+      {
+        "m_Pos": {
+          "x": 14,
+          "y": 5.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "cd77b1d5-35a1-4c67-9442-5a53e57d0af6"
+      },
+      {
+        "m_Pos": {
+          "x": 1.7320245504379272,
+          "y": 9.493207931518555,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "a927b2ff-c008-4bc7-bcbf-47f3f2fa8746"
+      },
+      {
+        "m_Pos": {
+          "x": 3.5092175006866455,
+          "y": 10.120326042175293,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "8aa5c2ee-5aa4-45b0-8152-85b44b9deada"
+      },
+      {
+        "m_Pos": {
+          "x": 5.3282036781311035,
+          "y": 10.612947463989258,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "38713649-c34c-457b-959e-4aaadff228d6"
+      },
+      {
+        "m_Pos": {
+          "x": 7.181586742401123,
+          "y": 10.953469276428223,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "8e65a921-bd80-499d-8943-59f88413086e"
+      },
+      {
+        "m_Pos": {
+          "x": 9.057844161987305,
+          "y": 11.127726554870605,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "34b3eb2c-5b7e-4fbe-ae8e-dc48ab88912d"
+      },
+      {
+        "m_Pos": {
+          "x": 10.942155838012695,
+          "y": 11.127726554870605,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "fc98b837-c7fb-49e8-8889-0f8f83bf3c6b"
+      },
+      {
+        "m_Pos": {
+          "x": 12.818413734436035,
+          "y": 10.953468322753906,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "6b0f63b1-8430-4dd8-a973-e5fb741e25a1"
+      },
+      {
+        "m_Pos": {
+          "x": 14.671797752380371,
+          "y": 10.612947463989258,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "94e3b204-a8b6-4bb1-8674-e3fe468461ee"
+      },
+      {
+        "m_Pos": {
+          "x": 16.49078369140625,
+          "y": 10.120326042175293,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "4ca9f260-ee27-4865-8910-622e206f9f1d"
+      },
+      {
+        "m_Pos": {
+          "x": 18.267976760864258,
+          "y": 9.493207931518555,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "13908aa0-9cf3-45e7-8212-61ddf9f0b2e4"
+      },
+      {
+        "m_Pos": {
+          "x": 5,
+          "y": 4,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "55154881-e24a-41f0-9e3e-2fb259ba85a0"
+      },
+      {
+        "m_Pos": {
+          "x": 7,
+          "y": 4,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "6ec5aa48-b932-48a0-aac9-813df7d7af29"
+      },
+      {
+        "m_Pos": {
+          "x": 9,
+          "y": 4,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "45bdd241-de69-41bd-add1-9d297e4f69eb"
+      },
+      {
+        "m_Pos": {
+          "x": 15,
+          "y": 4,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "dd853ca3-4234-4520-bedc-dc99cea24155"
+      },
+      {
+        "m_Pos": {
+          "x": 13,
+          "y": 4,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "6a637db4-4248-4147-92fe-ff60a359be5c"
+      },
+      {
+        "m_Pos": {
+          "x": 11,
+          "y": 4,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "993a0310-4ae4-4c38-8249-368b73d1b4d0"
+      },
+      {
+        "m_Pos": {
+          "x": 0.9501767754554749,
+          "y": 10.32595443725586,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "4e1c5a3a-5b73-4461-8246-31f29dd21e27"
+      },
+      {
+        "m_Pos": {
+          "x": 2.417841672897339,
+          "y": 11.323834419250488,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "58d90ce9-75be-4059-9b51-6dbe206d7b66"
+      },
+      {
+        "m_Pos": {
+          "x": 4.1723761558532715,
+          "y": 11.938006401062012,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "38fe5456-cef0-4e57-abdd-d59f73cc2d7c"
+      },
+      {
+        "m_Pos": {
+          "x": 6.09046745300293,
+          "y": 12.402018547058105,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "76b8db4e-ab70-439f-904a-929ef6e1822d"
+      },
+      {
+        "m_Pos": {
+          "x": 7.979257106781006,
+          "y": 12.702557563781738,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "80f4259d-c22c-4766-b74f-d9f117183814"
+      },
+      {
+        "m_Pos": {
+          "x": 10,
+          "y": 12.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "d28993c0-0dda-49f7-a244-030d23b5d00c"
+      },
+      {
+        "m_Pos": {
+          "x": 19.049823760986328,
+          "y": 10.32595443725586,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "1687aece-b63d-4330-91bf-71a9389c4da2"
+      },
+      {
+        "m_Pos": {
+          "x": 17.5821590423584,
+          "y": 11.323834419250488,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "d4a64083-4d1a-4e37-89e0-2dbff2a6ae27"
+      },
+      {
+        "m_Pos": {
+          "x": 15.82762336730957,
+          "y": 11.938006401062012,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "e81cf694-16ad-40b6-8245-397f8bf68306"
+      },
+      {
+        "m_Pos": {
+          "x": 13.90953254699707,
+          "y": 12.402018547058105,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "60216f85-d716-4e83-9518-014cfbf6bb02"
+      },
+      {
+        "m_Pos": {
+          "x": 12.020742416381836,
+          "y": 12.702557563781738,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "5f00314d-fb9d-4f95-8642-7d19ae6698df"
+      },
+      {
+        "m_Pos": {
+          "x": 16,
+          "y": 8.25,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "95f3cdef-b998-46d6-b912-a625efdf7535"
+      },
+      {
+        "m_Pos": {
+          "x": 4,
+          "y": 8.25,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "ab73c440-cbcc-4a13-b13d-96202ee0e847"
+      }
+    ],
+    "m_Edges": [
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "d329e196-14ed-48e0-8344-8e9bc5388546",
+        "m_NodeBGuid": "651f30fc-8261-437e-bce3-58d367161213",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "651f30fc-8261-437e-bce3-58d367161213",
+        "m_NodeBGuid": "6209832c-6522-4463-a2c8-b6a1639f129d",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "6209832c-6522-4463-a2c8-b6a1639f129d",
+        "m_NodeBGuid": "cf6713e3-eef6-44e7-979f-fdd83d44921b",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "cf6713e3-eef6-44e7-979f-fdd83d44921b",
+        "m_NodeBGuid": "d21dcb05-4d25-4526-8e04-4fb3a2db050c",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "d21dcb05-4d25-4526-8e04-4fb3a2db050c",
+        "m_NodeBGuid": "cd77b1d5-35a1-4c67-9442-5a53e57d0af6",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "cd77b1d5-35a1-4c67-9442-5a53e57d0af6",
+        "m_NodeBGuid": "9ec5015e-c9de-4078-baf3-ed30130abc75",
+        "m_JointAPart": 1,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "f8198596-6b66-4b57-9936-ede4b522716b",
+        "m_NodeBGuid": "a927b2ff-c008-4bc7-bcbf-47f3f2fa8746",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "a927b2ff-c008-4bc7-bcbf-47f3f2fa8746",
+        "m_NodeBGuid": "8aa5c2ee-5aa4-45b0-8152-85b44b9deada",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "8aa5c2ee-5aa4-45b0-8152-85b44b9deada",
+        "m_NodeBGuid": "38713649-c34c-457b-959e-4aaadff228d6",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "38713649-c34c-457b-959e-4aaadff228d6",
+        "m_NodeBGuid": "8e65a921-bd80-499d-8943-59f88413086e",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "8e65a921-bd80-499d-8943-59f88413086e",
+        "m_NodeBGuid": "34b3eb2c-5b7e-4fbe-ae8e-dc48ab88912d",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "d329e196-14ed-48e0-8344-8e9bc5388546",
+        "m_NodeBGuid": "55154881-e24a-41f0-9e3e-2fb259ba85a0",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "55154881-e24a-41f0-9e3e-2fb259ba85a0",
+        "m_NodeBGuid": "6ec5aa48-b932-48a0-aac9-813df7d7af29",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "6ec5aa48-b932-48a0-aac9-813df7d7af29",
+        "m_NodeBGuid": "651f30fc-8261-437e-bce3-58d367161213",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "651f30fc-8261-437e-bce3-58d367161213",
+        "m_NodeBGuid": "55154881-e24a-41f0-9e3e-2fb259ba85a0",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "6ec5aa48-b932-48a0-aac9-813df7d7af29",
+        "m_NodeBGuid": "6209832c-6522-4463-a2c8-b6a1639f129d",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "6209832c-6522-4463-a2c8-b6a1639f129d",
+        "m_NodeBGuid": "45bdd241-de69-41bd-add1-9d297e4f69eb",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "45bdd241-de69-41bd-add1-9d297e4f69eb",
+        "m_NodeBGuid": "6ec5aa48-b932-48a0-aac9-813df7d7af29",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "9ec5015e-c9de-4078-baf3-ed30130abc75",
+        "m_NodeBGuid": "dd853ca3-4234-4520-bedc-dc99cea24155",
+        "m_JointAPart": 1,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "dd853ca3-4234-4520-bedc-dc99cea24155",
+        "m_NodeBGuid": "6a637db4-4248-4147-92fe-ff60a359be5c",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "cd77b1d5-35a1-4c67-9442-5a53e57d0af6",
+        "m_NodeBGuid": "dd853ca3-4234-4520-bedc-dc99cea24155",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "6a637db4-4248-4147-92fe-ff60a359be5c",
+        "m_NodeBGuid": "cd77b1d5-35a1-4c67-9442-5a53e57d0af6",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "6a637db4-4248-4147-92fe-ff60a359be5c",
+        "m_NodeBGuid": "d21dcb05-4d25-4526-8e04-4fb3a2db050c",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "993a0310-4ae4-4c38-8249-368b73d1b4d0",
+        "m_NodeBGuid": "6a637db4-4248-4147-92fe-ff60a359be5c",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "d21dcb05-4d25-4526-8e04-4fb3a2db050c",
+        "m_NodeBGuid": "993a0310-4ae4-4c38-8249-368b73d1b4d0",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "993a0310-4ae4-4c38-8249-368b73d1b4d0",
+        "m_NodeBGuid": "45bdd241-de69-41bd-add1-9d297e4f69eb",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "45bdd241-de69-41bd-add1-9d297e4f69eb",
+        "m_NodeBGuid": "cf6713e3-eef6-44e7-979f-fdd83d44921b",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "cf6713e3-eef6-44e7-979f-fdd83d44921b",
+        "m_NodeBGuid": "993a0310-4ae4-4c38-8249-368b73d1b4d0",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "f8198596-6b66-4b57-9936-ede4b522716b",
+        "m_NodeBGuid": "4e1c5a3a-5b73-4461-8246-31f29dd21e27",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "4e1c5a3a-5b73-4461-8246-31f29dd21e27",
+        "m_NodeBGuid": "a927b2ff-c008-4bc7-bcbf-47f3f2fa8746",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "a927b2ff-c008-4bc7-bcbf-47f3f2fa8746",
+        "m_NodeBGuid": "58d90ce9-75be-4059-9b51-6dbe206d7b66",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "58d90ce9-75be-4059-9b51-6dbe206d7b66",
+        "m_NodeBGuid": "8aa5c2ee-5aa4-45b0-8152-85b44b9deada",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "58d90ce9-75be-4059-9b51-6dbe206d7b66",
+        "m_NodeBGuid": "38fe5456-cef0-4e57-abdd-d59f73cc2d7c",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "38fe5456-cef0-4e57-abdd-d59f73cc2d7c",
+        "m_NodeBGuid": "76b8db4e-ab70-439f-904a-929ef6e1822d",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "76b8db4e-ab70-439f-904a-929ef6e1822d",
+        "m_NodeBGuid": "80f4259d-c22c-4766-b74f-d9f117183814",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "80f4259d-c22c-4766-b74f-d9f117183814",
+        "m_NodeBGuid": "d28993c0-0dda-49f7-a244-030d23b5d00c",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "d28993c0-0dda-49f7-a244-030d23b5d00c",
+        "m_NodeBGuid": "34b3eb2c-5b7e-4fbe-ae8e-dc48ab88912d",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "34b3eb2c-5b7e-4fbe-ae8e-dc48ab88912d",
+        "m_NodeBGuid": "80f4259d-c22c-4766-b74f-d9f117183814",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "80f4259d-c22c-4766-b74f-d9f117183814",
+        "m_NodeBGuid": "8e65a921-bd80-499d-8943-59f88413086e",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "8e65a921-bd80-499d-8943-59f88413086e",
+        "m_NodeBGuid": "76b8db4e-ab70-439f-904a-929ef6e1822d",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "76b8db4e-ab70-439f-904a-929ef6e1822d",
+        "m_NodeBGuid": "38713649-c34c-457b-959e-4aaadff228d6",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "38713649-c34c-457b-959e-4aaadff228d6",
+        "m_NodeBGuid": "38fe5456-cef0-4e57-abdd-d59f73cc2d7c",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "38fe5456-cef0-4e57-abdd-d59f73cc2d7c",
+        "m_NodeBGuid": "8aa5c2ee-5aa4-45b0-8152-85b44b9deada",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "4e1c5a3a-5b73-4461-8246-31f29dd21e27",
+        "m_NodeBGuid": "58d90ce9-75be-4059-9b51-6dbe206d7b66",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "425a3d47-5879-414b-9814-8b69ee1749e6",
+        "m_NodeBGuid": "13908aa0-9cf3-45e7-8212-61ddf9f0b2e4",
+        "m_JointAPart": 1,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "425a3d47-5879-414b-9814-8b69ee1749e6",
+        "m_NodeBGuid": "1687aece-b63d-4330-91bf-71a9389c4da2",
+        "m_JointAPart": 1,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "13908aa0-9cf3-45e7-8212-61ddf9f0b2e4",
+        "m_NodeBGuid": "4ca9f260-ee27-4865-8910-622e206f9f1d",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "1687aece-b63d-4330-91bf-71a9389c4da2",
+        "m_NodeBGuid": "13908aa0-9cf3-45e7-8212-61ddf9f0b2e4",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "13908aa0-9cf3-45e7-8212-61ddf9f0b2e4",
+        "m_NodeBGuid": "d4a64083-4d1a-4e37-89e0-2dbff2a6ae27",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "4ca9f260-ee27-4865-8910-622e206f9f1d",
+        "m_NodeBGuid": "94e3b204-a8b6-4bb1-8674-e3fe468461ee",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "d4a64083-4d1a-4e37-89e0-2dbff2a6ae27",
+        "m_NodeBGuid": "4ca9f260-ee27-4865-8910-622e206f9f1d",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "e81cf694-16ad-40b6-8245-397f8bf68306",
+        "m_NodeBGuid": "4ca9f260-ee27-4865-8910-622e206f9f1d",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "94e3b204-a8b6-4bb1-8674-e3fe468461ee",
+        "m_NodeBGuid": "6b0f63b1-8430-4dd8-a973-e5fb741e25a1",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "60216f85-d716-4e83-9518-014cfbf6bb02",
+        "m_NodeBGuid": "94e3b204-a8b6-4bb1-8674-e3fe468461ee",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "94e3b204-a8b6-4bb1-8674-e3fe468461ee",
+        "m_NodeBGuid": "e81cf694-16ad-40b6-8245-397f8bf68306",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "6b0f63b1-8430-4dd8-a973-e5fb741e25a1",
+        "m_NodeBGuid": "fc98b837-c7fb-49e8-8889-0f8f83bf3c6b",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "5f00314d-fb9d-4f95-8642-7d19ae6698df",
+        "m_NodeBGuid": "6b0f63b1-8430-4dd8-a973-e5fb741e25a1",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "6b0f63b1-8430-4dd8-a973-e5fb741e25a1",
+        "m_NodeBGuid": "60216f85-d716-4e83-9518-014cfbf6bb02",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "fc98b837-c7fb-49e8-8889-0f8f83bf3c6b",
+        "m_NodeBGuid": "34b3eb2c-5b7e-4fbe-ae8e-dc48ab88912d",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "d28993c0-0dda-49f7-a244-030d23b5d00c",
+        "m_NodeBGuid": "fc98b837-c7fb-49e8-8889-0f8f83bf3c6b",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "fc98b837-c7fb-49e8-8889-0f8f83bf3c6b",
+        "m_NodeBGuid": "5f00314d-fb9d-4f95-8642-7d19ae6698df",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "1687aece-b63d-4330-91bf-71a9389c4da2",
+        "m_NodeBGuid": "d4a64083-4d1a-4e37-89e0-2dbff2a6ae27",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "d4a64083-4d1a-4e37-89e0-2dbff2a6ae27",
+        "m_NodeBGuid": "e81cf694-16ad-40b6-8245-397f8bf68306",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "e81cf694-16ad-40b6-8245-397f8bf68306",
+        "m_NodeBGuid": "60216f85-d716-4e83-9518-014cfbf6bb02",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "60216f85-d716-4e83-9518-014cfbf6bb02",
+        "m_NodeBGuid": "5f00314d-fb9d-4f95-8642-7d19ae6698df",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "5f00314d-fb9d-4f95-8642-7d19ae6698df",
+        "m_NodeBGuid": "d28993c0-0dda-49f7-a244-030d23b5d00c",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 4,
+        "m_NodeAGuid": "9ec5015e-c9de-4078-baf3-ed30130abc75",
+        "m_NodeBGuid": "95f3cdef-b998-46d6-b912-a625efdf7535",
+        "m_JointAPart": 1,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 4,
+        "m_NodeAGuid": "95f3cdef-b998-46d6-b912-a625efdf7535",
+        "m_NodeBGuid": "94e3b204-a8b6-4bb1-8674-e3fe468461ee",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 4,
+        "m_NodeAGuid": "95f3cdef-b998-46d6-b912-a625efdf7535",
+        "m_NodeBGuid": "13908aa0-9cf3-45e7-8212-61ddf9f0b2e4",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 4,
+        "m_NodeAGuid": "d329e196-14ed-48e0-8344-8e9bc5388546",
+        "m_NodeBGuid": "ab73c440-cbcc-4a13-b13d-96202ee0e847",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 4,
+        "m_NodeAGuid": "ab73c440-cbcc-4a13-b13d-96202ee0e847",
+        "m_NodeBGuid": "38713649-c34c-457b-959e-4aaadff228d6",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 4,
+        "m_NodeAGuid": "ab73c440-cbcc-4a13-b13d-96202ee0e847",
+        "m_NodeBGuid": "a927b2ff-c008-4bc7-bcbf-47f3f2fa8746",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      }
+    ],
+    "m_Pistons": [],
+    "m_Phases": [
+      {
+        "m_HydraulicPhaseGuid": "fe83aa7c-3ad4-4903-82d4-5d50318bc4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "980d283d-9602-485a-9250-408629a1526f",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "fe83aa7c-3ad4-4903-82d4-5d50318bc4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "980d283d-9602-485a-9250-408629a1526f",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "fe83aa7c-3ad4-4903-82d4-5d50318bc4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "980d283d-9602-485a-9250-408629a1526f",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "fe83aa7c-3ad4-4903-82d4-5d50318bc4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "980d283d-9602-485a-9250-408629a1526f",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      }
+    ],
+    "m_Springs": []
+  },
+  "m_Budget": {
+    "m_Cash": 39000,
+    "m_Road": 100,
+    "m_Wood": 100,
+    "m_Steel": 8,
+    "m_Hydraulics": 4,
+    "m_Rope": 0,
+    "m_Cable": 0,
+    "m_Spring": 0,
+    "m_BungeeRope": 100,
+    "m_AllowWood": true,
+    "m_AllowSteel": true,
+    "m_AllowHydraulics": true,
+    "m_AllowRope": true,
+    "m_AllowCable": true,
+    "m_AllowSpring": true,
+    "m_AllowReinforcedRoad": true
+  },
+  "m_Settings": {
+    "m_HydraulicsControllerEnabled": false,
+    "m_Unbreakable": false,
+    "m_NoWater": false
+  },
+  "m_Workshop": {
+    "m_Id": "",
+    "m_LeaderboardId": "",
+    "m_Title": "",
+    "m_Description": "",
+    "m_Autoplay": false,
+    "m_Tags": []
+  },
+  "m_ModData": {},
+  "m_IsModded": false,
+  "m_Version": 24,
+  "m_ThemeStubKey": "Volcano",
+  "m_Anchors": [
+    {
+      "m_Pos": {
+        "x": 0,
+        "y": 8.75,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "f8198596-6b66-4b57-9936-ede4b522716b"
+    },
+    {
+      "m_Pos": {
+        "x": 20,
+        "y": 8.75,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "425a3d47-5879-414b-9814-8b69ee1749e6"
+    },
+    {
+      "m_Pos": {
+        "x": 4,
+        "y": 5.75,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "d329e196-14ed-48e0-8344-8e9bc5388546"
+    },
+    {
+      "m_Pos": {
+        "x": 16,
+        "y": 5.75,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "9ec5015e-c9de-4078-baf3-ed30130abc75"
+    }
+  ],
+  "m_Phases": [
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "fe83aa7c-3ad4-4903-82d4-5d50318bc4cc"
+    },
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "980d283d-9602-485a-9250-408629a1526f"
+    },
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "fe83aa7c-3ad4-4903-82d4-5d50318bc4cc"
+    },
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "980d283d-9602-485a-9250-408629a1526f"
+    }
+  ],
+  "m_ZedAxisVehicles": [
+    {
+      "m_Pos": {
+        "x": 10,
+        "y": 8
+      },
+      "m_PrefabName": "BiPlane",
+      "m_Guid": "881c4575-3d8c-4999-b8f8-92459f7e730d",
+      "m_TimeDelay": 0,
+      "m_Speed": 10
+    }
+  ],
+  "m_Vehicles": [
+    {
+      "m_DisplayName": "",
+      "m_Pos": {
+        "x": 1.75,
+        "y": 5.860000133514404
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_PrefabName": "Taxi",
+      "m_TargetSpeed": 2.5,
+      "m_Mass": 16,
+      "m_BrakingForceMultiplier": 1.9000000953674316,
+      "m_StrengthMethod": 0,
+      "m_Acceleration": 5,
+      "m_MaxSlope": 0,
+      "m_DesiredAccleration": 1,
+      "m_ShocksMultiplier": 1,
+      "m_RotationDegrees": 0,
+      "m_TimeDelay": 0,
+      "m_IdleOnDownhill": false,
+      "m_Flipped": false,
+      "m_OrderedCheckpoints": false,
+      "m_Guid": "bbc64d70-b225-43f0-98dc-56cdb0681b3f",
+      "m_CheckpointGuids": []
+    },
+    {
+      "m_DisplayName": "",
+      "m_Pos": {
+        "x": -1.75,
+        "y": 8.859999656677246
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_PrefabName": "CompactCar",
+      "m_TargetSpeed": 5,
+      "m_Mass": 14,
+      "m_BrakingForceMultiplier": 2.5,
+      "m_StrengthMethod": 0,
+      "m_Acceleration": 5,
+      "m_MaxSlope": 0,
+      "m_DesiredAccleration": 1,
+      "m_ShocksMultiplier": 1,
+      "m_RotationDegrees": 0,
+      "m_TimeDelay": 0,
+      "m_IdleOnDownhill": false,
+      "m_Flipped": false,
+      "m_OrderedCheckpoints": false,
+      "m_Guid": "605f4f0b-5786-4b84-b8f3-ddedfd3c98e9",
+      "m_CheckpointGuids": [
+        "40994a03-a1bc-4343-8a37-846e2c064ec0"
+      ]
+    }
+  ],
+  "m_VehicleStopTriggers": [
+    {
+      "m_Pos": {
+        "x": -3.5,
+        "y": 8.850000381469727
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_Height": 1.75,
+      "m_RotationDegrees": 0,
+      "m_Flipped": false,
+      "m_PrefabName": "VictoryFlag",
+      "m_StopVehicleGuid": "605f4f0b-5786-4b84-b8f3-ddedfd3c98e9"
+    },
+    {
+      "m_Pos": {
+        "x": 18,
+        "y": 5.849999904632568
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_Height": 1.75,
+      "m_RotationDegrees": 0,
+      "m_Flipped": false,
+      "m_PrefabName": "VictoryFlag",
+      "m_StopVehicleGuid": "bbc64d70-b225-43f0-98dc-56cdb0681b3f"
+    }
+  ],
+  "m_EventTimelines": [
+    {
+      "m_CheckpointGuid": "",
+      "m_Stages": [
+        {
+          "m_Units": [
+            {
+              "m_Guid": "605f4f0b-5786-4b84-b8f3-ddedfd3c98e9"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "fe83aa7c-3ad4-4903-82d4-5d50318bc4cc"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "881c4575-3d8c-4999-b8f8-92459f7e730d"
+            },
+            {
+              "m_Guid": "bbc64d70-b225-43f0-98dc-56cdb0681b3f"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "980d283d-9602-485a-9250-408629a1526f"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "87db0940-84fd-47b4-9daa-d421120681b8"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "m_Checkpoints": [
+    {
+      "m_Pos": {
+        "x": 22,
+        "y": 9.75
+      },
+      "m_PrefabName": "Checkpoint",
+      "m_VehicleGuid": "605f4f0b-5786-4b84-b8f3-ddedfd3c98e9",
+      "m_VehicleRestartPhaseGuid": "87db0940-84fd-47b4-9daa-d421120681b8",
+      "m_TriggerTimeline": false,
+      "m_StopVehicle": true,
+      "m_ReverseVehicleOnRestart": true,
+      "m_Guid": "40994a03-a1bc-4343-8a37-846e2c064ec0"
+    }
+  ],
+  "m_TerrainStretches": [
+    {
+      "m_Pos": {
+        "x": 0,
+        "y": 3.75,
+        "z": 0
+      },
+      "m_PrefabName": "Terrain_BookEndD",
+      "m_HeightAdded": 3.75,
+      "m_RightEdgeWaterHeight": 4,
+      "m_TerrainIslandType": 0,
+      "m_VariantIndex": 3,
+      "m_Flipped": false,
+      "m_LockPosition": true,
+      "m_Hidden": false
+    },
+    {
+      "m_Pos": {
+        "x": 20,
+        "y": 3.75,
+        "z": 0
+      },
+      "m_PrefabName": "Terrain_BookEndC",
+      "m_HeightAdded": 3.75,
+      "m_RightEdgeWaterHeight": 0,
+      "m_TerrainIslandType": 0,
+      "m_VariantIndex": 2,
+      "m_Flipped": true,
+      "m_LockPosition": true,
+      "m_Hidden": false
+    }
+  ],
+  "m_Platforms": [
+    {
+      "m_Pos": {
+        "x": 1.75,
+        "y": 5.75
+      },
+      "m_Width": 4.5,
+      "m_Height": 4,
+      "m_Flipped": false,
+      "m_Solid": false
+    },
+    {
+      "m_Pos": {
+        "x": 18.25,
+        "y": 5.75
+      },
+      "m_Width": 4.5,
+      "m_Height": 4,
+      "m_Flipped": false,
+      "m_Solid": false
+    }
+  ],
+  "m_Ramps": [],
+  "m_VehicleRestartPhases": [
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "87db0940-84fd-47b4-9daa-d421120681b8",
+      "m_VehicleGuid": "605f4f0b-5786-4b84-b8f3-ddedfd3c98e9"
+    }
+  ],
+  "m_FlyingObjects": [],
+  "m_Rocks": [
+    {
+      "m_Pos": {
+        "x": 2,
+        "y": 0,
+        "z": 0
+      },
+      "m_Scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "m_PrefabName": "Rock_Prefab",
+      "m_Flipped": false
+    },
+    {
+      "m_Pos": {
+        "x": 18,
+        "y": 0,
+        "z": 0
+      },
+      "m_Scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "m_PrefabName": "Rock_Prefab",
+      "m_Flipped": true
+    }
+  ],
+  "m_WaterBlocks": [
+    {
+      "m_Pos": {
+        "x": 10,
+        "y": 2,
+        "z": 0
+      },
+      "m_Width": 20,
+      "m_Height": 4,
+      "m_LockPosition": false
+    }
+  ],
+  "m_CustomShapes": [],
+  "m_SupportPillars": [],
+  "m_Pillars": []
+}

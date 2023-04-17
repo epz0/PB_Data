@@ -121,3 +121,48 @@ def CleanFullDump(filedir, exportJson=None, exportExcel=None):
 
     return df_CleanFull
 
+
+# Function to download entries' videos and thumbnails of a particular level
+# fileFullPath is the full path of the clean data (.json)
+
+def DownloadEntriesVid(fileFullPath, originalBudget, levelName=None):
+
+    # folder to save the videos and thumbnails
+    desktopfolder = Path(f"{Path.cwd()}/{levelName.replace(' ', '')}/")  # desktopfolder = Path('/'+ levelName.replace(' ', '') + '/')
+
+    # check if folder already exists and creates it if not
+    if not desktopfolder.exists():
+        desktopfolder.mkdir()
+
+    # get the data from the clean data json file
+    df = pd.read_json(fileFullPath)
+    df_data = pd.DataFrame(df).T
+
+    # filter data to focus on the selected level
+    if levelName:
+        df_data = df_data[df_data['title'] == levelName]
+
+    # check if there is data in this filtered df
+    # if yes, then goes through each row (entries) and downloads the video & thumbnail
+    # the file name for the video & thumbnail follows the following convention:
+    # ID-Result-MaxStress-Budgetused-BudgetPercent (e.g. ABCD1-R_win-MS_98.7-B_12345-Bp_78.9.dat)
+    if len(df_data) > 0:
+        for i, row in df_data.iterrows():
+
+            vidLink = str(row['video'])
+            URLOpen = urllib.request.urlopen(vidLink).read()
+            open(f"{desktopfolder}/{row['id']}-R_{row['result']}-MS_{row['maxStress']}-B_{row['budgetUsed']}-Bp_{row['budgetUsed']*100/originalBudget:.1f}.dat",
+             'wb+').write(URLOpen)
+
+            prevLink = str(row['videoPreview'])
+            URLOpen = urllib.request.urlopen(prevLink).read()
+            open(f"{desktopfolder}/{row['id']}-R_{row['result']}-MS_{row['maxStress']}-B_{row['budgetUsed']}-Bp_{row['budgetUsed']*100/originalBudget:.1f}.png",
+                 'wb+').write(URLOpen)
+
+            time.sleep(1) #to not overload the server
+
+    #if there is no data in the filtered df, the levelName is wrong or level does not exist
+    else:
+        print(f" {levelName} does not exist!")
+
+    print(f"Download conclude at {datetime.now()} and files saved in {desktopfolder}")

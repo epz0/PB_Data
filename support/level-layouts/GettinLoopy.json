@@ -1,0 +1,540 @@
+{
+  "m_Bridge": {
+    "m_Version": 9,
+    "m_Anchors": [
+      {
+        "m_Pos": {
+          "x": 0.5,
+          "y": 22,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "aa7b9f91-cd1b-4a1f-a30b-64e9bd3d08c3"
+      },
+      {
+        "m_Pos": {
+          "x": 20.5,
+          "y": 22,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "ec340c22-6b9a-479e-a0e7-cbef5df3f445"
+      },
+      {
+        "m_Pos": {
+          "x": 0.5,
+          "y": 17,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "6604da42-0d87-40df-b385-c6f0f56711b0"
+      },
+      {
+        "m_Pos": {
+          "x": 0.5,
+          "y": 12,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "0c6b0377-4f53-4735-bb1a-183b9c612c75"
+      },
+      {
+        "m_Pos": {
+          "x": 0.5,
+          "y": 7,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "e2be447a-06d8-49f1-8b94-7c51fd155155"
+      },
+      {
+        "m_Pos": {
+          "x": 0.5,
+          "y": 2,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "bb266f69-b8d1-45f4-ab63-84a61980088e"
+      },
+      {
+        "m_Pos": {
+          "x": 20.5,
+          "y": 17,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "3e5170e7-c06f-44b7-80bb-8a7aa496a164"
+      },
+      {
+        "m_Pos": {
+          "x": 20.5,
+          "y": 12,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "41888f10-82d9-40d4-9305-0fbe85170295"
+      },
+      {
+        "m_Pos": {
+          "x": 20.5,
+          "y": 7,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "c6eb79e2-ca54-4633-b0a5-b63f23454ed9"
+      },
+      {
+        "m_Pos": {
+          "x": 20.5,
+          "y": 2,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "00b16783-64e3-4a74-ae7a-99a686fc4c0f"
+      },
+      {
+        "m_Pos": {
+          "x": 20.5,
+          "y": 27,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "37d5c889-b086-48e1-9b2d-5ae891251d34"
+      }
+    ],
+    "m_Joints": [],
+    "m_Edges": [],
+    "m_Pistons": [],
+    "m_Phases": [],
+    "m_Springs": []
+  },
+  "m_Budget": {
+    "m_Cash": 175000,
+    "m_Road": 100,
+    "m_Wood": 0,
+    "m_Steel": 100,
+    "m_Hydraulics": 0,
+    "m_Rope": 100,
+    "m_Cable": 100,
+    "m_Spring": 100,
+    "m_BungeeRope": 100,
+    "m_AllowWood": true,
+    "m_AllowSteel": true,
+    "m_AllowHydraulics": true,
+    "m_AllowRope": true,
+    "m_AllowCable": true,
+    "m_AllowSpring": true,
+    "m_AllowReinforcedRoad": true
+  },
+  "m_Settings": {
+    "m_HydraulicsControllerEnabled": false,
+    "m_Unbreakable": false,
+    "m_NoWater": false
+  },
+  "m_Workshop": {
+    "m_Id": "",
+    "m_LeaderboardId": "",
+    "m_Title": "",
+    "m_Description": "",
+    "m_Autoplay": false,
+    "m_Tags": []
+  },
+  "m_ModData": {},
+  "m_IsModded": false,
+  "m_Version": 25,
+  "m_ThemeStubKey": "ZenGardens",
+  "m_Anchors": [
+    {
+      "m_Pos": {
+        "x": 0.5,
+        "y": 22,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "aa7b9f91-cd1b-4a1f-a30b-64e9bd3d08c3"
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 22,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "ec340c22-6b9a-479e-a0e7-cbef5df3f445"
+    },
+    {
+      "m_Pos": {
+        "x": 0.5,
+        "y": 17,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "6604da42-0d87-40df-b385-c6f0f56711b0"
+    },
+    {
+      "m_Pos": {
+        "x": 0.5,
+        "y": 12,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "0c6b0377-4f53-4735-bb1a-183b9c612c75"
+    },
+    {
+      "m_Pos": {
+        "x": 0.5,
+        "y": 7,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "e2be447a-06d8-49f1-8b94-7c51fd155155"
+    },
+    {
+      "m_Pos": {
+        "x": 0.5,
+        "y": 2,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "bb266f69-b8d1-45f4-ab63-84a61980088e"
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 17,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "3e5170e7-c06f-44b7-80bb-8a7aa496a164"
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 12,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "41888f10-82d9-40d4-9305-0fbe85170295"
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 7,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "c6eb79e2-ca54-4633-b0a5-b63f23454ed9"
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 2,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "00b16783-64e3-4a74-ae7a-99a686fc4c0f"
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 27,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "37d5c889-b086-48e1-9b2d-5ae891251d34"
+    }
+  ],
+  "m_Phases": [],
+  "m_ZedAxisVehicles": [],
+  "m_Vehicles": [
+    {
+      "m_DisplayName": "",
+      "m_Pos": {
+        "x": -3,
+        "y": 26.360000610351562
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": -0.3583679795265198,
+        "w": 0.9335804581642151
+      },
+      "m_PrefabName": "DuneBuggy",
+      "m_TargetSpeed": 15,
+      "m_Mass": 14,
+      "m_BrakingForceMultiplier": 2.5,
+      "m_StrengthMethod": 0,
+      "m_Acceleration": 10,
+      "m_MaxSlope": 0,
+      "m_DesiredAccleration": 7,
+      "m_ShocksMultiplier": 0.5,
+      "m_RotationDegrees": -42,
+      "m_TimeDelay": 0,
+      "m_IdleOnDownhill": true,
+      "m_Flipped": false,
+      "m_OrderedCheckpoints": false,
+      "m_Guid": "bf9ba33f-a8cb-4904-8c84-bd0f55e279bb",
+      "m_CheckpointGuids": [
+        "2abf8f3b-6a72-4992-ade3-07205d17dfb8",
+        "28299753-3fb6-4481-8460-18d48b1c8a48"
+      ]
+    }
+  ],
+  "m_VehicleStopTriggers": [
+    {
+      "m_Pos": {
+        "x": 26,
+        "y": 27.100000381469727
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_Height": 2.5,
+      "m_RotationDegrees": 0,
+      "m_Flipped": false,
+      "m_PrefabName": "VictoryFlag",
+      "m_StopVehicleGuid": "bf9ba33f-a8cb-4904-8c84-bd0f55e279bb"
+    }
+  ],
+  "m_EventTimelines": [
+    {
+      "m_CheckpointGuid": "",
+      "m_Stages": [
+        {
+          "m_Units": [
+            {
+              "m_Guid": "bf9ba33f-a8cb-4904-8c84-bd0f55e279bb"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "m_Checkpoints": [
+    {
+      "m_Pos": {
+        "x": 10.5,
+        "y": 4.5
+      },
+      "m_PrefabName": "Checkpoint",
+      "m_VehicleGuid": "bf9ba33f-a8cb-4904-8c84-bd0f55e279bb",
+      "m_VehicleRestartPhaseGuid": "",
+      "m_TriggerTimeline": false,
+      "m_StopVehicle": false,
+      "m_ReverseVehicleOnRestart": false,
+      "m_Guid": "2abf8f3b-6a72-4992-ade3-07205d17dfb8"
+    },
+    {
+      "m_Pos": {
+        "x": 10.5,
+        "y": 19.5
+      },
+      "m_PrefabName": "Checkpoint",
+      "m_VehicleGuid": "bf9ba33f-a8cb-4904-8c84-bd0f55e279bb",
+      "m_VehicleRestartPhaseGuid": "",
+      "m_TriggerTimeline": false,
+      "m_StopVehicle": false,
+      "m_ReverseVehicleOnRestart": false,
+      "m_Guid": "28299753-3fb6-4481-8460-18d48b1c8a48"
+    }
+  ],
+  "m_TerrainStretches": [
+    {
+      "m_Pos": {
+        "x": 0.5,
+        "y": 17,
+        "z": 0
+      },
+      "m_PrefabName": "Terrain_BookEndA",
+      "m_HeightAdded": 17,
+      "m_RightEdgeWaterHeight": 0,
+      "m_TerrainIslandType": 0,
+      "m_VariantIndex": 0,
+      "m_Flipped": false,
+      "m_LockPosition": false,
+      "m_Hidden": false
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 22,
+        "z": 0
+      },
+      "m_PrefabName": "Terrain_BookEndB",
+      "m_HeightAdded": 22,
+      "m_RightEdgeWaterHeight": 0,
+      "m_TerrainIslandType": 0,
+      "m_VariantIndex": 1,
+      "m_Flipped": true,
+      "m_LockPosition": false,
+      "m_Hidden": false
+    }
+  ],
+  "m_Platforms": [],
+  "m_Ramps": [
+    {
+      "m_Pos": {
+        "x": -3.375,
+        "y": 24.75
+      },
+      "m_ControlPoints": [
+        {
+          "x": -3.875,
+          "y": 2.75
+        },
+        {
+          "x": -0.5490198135375977,
+          "y": 2.638683319091797
+        },
+        {
+          "x": 1.730398178100586,
+          "y": -0.06462478637695312
+        },
+        {
+          "x": 2.8034844398498535,
+          "y": -1.26690673828125
+        },
+        {
+          "x": 3.875,
+          "y": -2.75
+        }
+      ],
+      "m_Height": 0,
+      "m_NumSegments": 20,
+      "m_SplineType": 1,
+      "m_FlippedVertical": false,
+      "m_FlippedHorizontal": false,
+      "m_HideLegs": false,
+      "m_FlippedLegs": false,
+      "m_LinePoints": [
+        {
+          "x": 0.5,
+          "y": 22
+        },
+        {
+          "x": 0.28569483757019043,
+          "y": 22.29624366760254
+        },
+        {
+          "x": 0.07137727737426758,
+          "y": 22.590242385864258
+        },
+        {
+          "x": -0.14296579360961914,
+          "y": 22.87974739074707
+        },
+        {
+          "x": -0.3573465347290039,
+          "y": 23.162511825561523
+        },
+        {
+          "x": -0.57177734375,
+          "y": 23.436290740966797
+        },
+        {
+          "x": -0.7878754138946533,
+          "y": 23.701587677001953
+        },
+        {
+          "x": -1.013674020767212,
+          "y": 23.969907760620117
+        },
+        {
+          "x": -1.2588119506835938,
+          "y": 24.255504608154297
+        },
+        {
+          "x": -1.5329269170761108,
+          "y": 24.5726318359375
+        },
+        {
+          "x": -1.8456571102142334,
+          "y": 24.935546875
+        },
+        {
+          "x": -2.2048211097717285,
+          "y": 25.35066795349121
+        },
+        {
+          "x": -2.6109602451324463,
+          "y": 25.793087005615234
+        },
+        {
+          "x": -3.0627963542938232,
+          "y": 26.230058670043945
+        },
+        {
+          "x": -3.559051275253296,
+          "y": 26.62883949279785
+        },
+        {
+          "x": -4.098446846008301,
+          "y": 26.956684112548828
+        },
+        {
+          "x": -4.67852258682251,
+          "y": 27.18976402282715
+        },
+        {
+          "x": -5.292088031768799,
+          "y": 27.33989906311035
+        },
+        {
+          "x": -5.930771350860596,
+          "y": 27.427825927734375
+        },
+        {
+          "x": -6.5861992835998535,
+          "y": 27.474281311035156
+        },
+        {
+          "x": -7.25,
+          "y": 27.5
+        }
+      ]
+    }
+  ],
+  "m_VehicleRestartPhases": [],
+  "m_FlyingObjects": [],
+  "m_Rocks": [],
+  "m_WaterBlocks": [
+    {
+      "m_Pos": {
+        "x": 10.5,
+        "y": 1.5,
+        "z": 0
+      },
+      "m_Width": 20,
+      "m_Height": 3,
+      "m_LockPosition": false
+    }
+  ],
+  "m_CustomShapes": [],
+  "m_SupportPillars": [],
+  "m_Pillars": []
+}

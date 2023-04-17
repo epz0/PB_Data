@@ -1,0 +1,1375 @@
+{
+  "m_Bridge": {
+    "m_Version": 9,
+    "m_Anchors": [
+      {
+        "m_Pos": {
+          "x": -5.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "aec3692f-d144-44f8-bc8b-86ede087fa3c"
+      },
+      {
+        "m_Pos": {
+          "x": 18.5,
+          "y": 10,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "1b45d804-90e5-4ddb-ad84-b2428cd51b73"
+      },
+      {
+        "m_Pos": {
+          "x": 6.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "971ef2ad-5a69-4e74-a871-214034ef8535"
+      },
+      {
+        "m_Pos": {
+          "x": 10.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "8253a697-6a3b-479c-8ecd-465e757092c4"
+      },
+      {
+        "m_Pos": {
+          "x": 10.5,
+          "y": 10,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "fdd36e24-8abb-41ff-adc9-96f2c0fc002c"
+      },
+      {
+        "m_Pos": {
+          "x": 18.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "3fd40446-0f27-4da5-8b4c-64f693a1dc71"
+      },
+      {
+        "m_Pos": {
+          "x": 6.5,
+          "y": 10,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "741bdd4c-8e06-454d-962a-ea42142b1064"
+      },
+      {
+        "m_Pos": {
+          "x": -5.5,
+          "y": 6,
+          "z": 0
+        },
+        "m_IsAnchor": true,
+        "m_IsSplit": false,
+        "m_Guid": "ce200769-e287-47cf-8d5b-31384c06a9ad"
+      }
+    ],
+    "m_Joints": [
+      {
+        "m_Pos": {
+          "x": -3.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "e747e037-788f-40eb-b942-5f88d947e3dd"
+      },
+      {
+        "m_Pos": {
+          "x": -1.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "40da6d24-b1f5-4afd-b2f3-3357a8a546c4"
+      },
+      {
+        "m_Pos": {
+          "x": 0.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "2a4a73ee-b560-4583-a138-6257076522c6"
+      },
+      {
+        "m_Pos": {
+          "x": 2.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "15f0d740-fdeb-40c5-9cc4-1f8714d27d7a"
+      },
+      {
+        "m_Pos": {
+          "x": 4.5,
+          "y": 8,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "edc2673f-6dad-4715-821c-d352cf7b36e5"
+      },
+      {
+        "m_Pos": {
+          "x": -4.5,
+          "y": 9.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "c160151d-2b67-4bfb-a792-ca81b83cd7a5"
+      },
+      {
+        "m_Pos": {
+          "x": -2.5,
+          "y": 9.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "8925234e-035c-424b-ba3e-ede90a25b0d8"
+      },
+      {
+        "m_Pos": {
+          "x": -0.5,
+          "y": 9.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "5708e9ba-8773-42fc-9c12-5f96bfcd5c0d"
+      },
+      {
+        "m_Pos": {
+          "x": 1.5,
+          "y": 9.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "df9f5c21-ff2e-4684-9136-d720fd008cfa"
+      },
+      {
+        "m_Pos": {
+          "x": 3.5,
+          "y": 9.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "a209a645-b165-4d27-ae0b-4cddaa8f5324"
+      },
+      {
+        "m_Pos": {
+          "x": 5.5,
+          "y": 9.75,
+          "z": 0
+        },
+        "m_IsAnchor": false,
+        "m_IsSplit": false,
+        "m_Guid": "0b396d42-5812-457a-9d97-a9e6ab3e1c8e"
+      }
+    ],
+    "m_Edges": [
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "aec3692f-d144-44f8-bc8b-86ede087fa3c",
+        "m_NodeBGuid": "e747e037-788f-40eb-b942-5f88d947e3dd",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "e747e037-788f-40eb-b942-5f88d947e3dd",
+        "m_NodeBGuid": "40da6d24-b1f5-4afd-b2f3-3357a8a546c4",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "40da6d24-b1f5-4afd-b2f3-3357a8a546c4",
+        "m_NodeBGuid": "2a4a73ee-b560-4583-a138-6257076522c6",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "2a4a73ee-b560-4583-a138-6257076522c6",
+        "m_NodeBGuid": "15f0d740-fdeb-40c5-9cc4-1f8714d27d7a",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "15f0d740-fdeb-40c5-9cc4-1f8714d27d7a",
+        "m_NodeBGuid": "edc2673f-6dad-4715-821c-d352cf7b36e5",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 1,
+        "m_NodeAGuid": "edc2673f-6dad-4715-821c-d352cf7b36e5",
+        "m_NodeBGuid": "971ef2ad-5a69-4e74-a871-214034ef8535",
+        "m_JointAPart": 1,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "aec3692f-d144-44f8-bc8b-86ede087fa3c",
+        "m_NodeBGuid": "c160151d-2b67-4bfb-a792-ca81b83cd7a5",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "c160151d-2b67-4bfb-a792-ca81b83cd7a5",
+        "m_NodeBGuid": "8925234e-035c-424b-ba3e-ede90a25b0d8",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "8925234e-035c-424b-ba3e-ede90a25b0d8",
+        "m_NodeBGuid": "5708e9ba-8773-42fc-9c12-5f96bfcd5c0d",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "5708e9ba-8773-42fc-9c12-5f96bfcd5c0d",
+        "m_NodeBGuid": "df9f5c21-ff2e-4684-9136-d720fd008cfa",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "df9f5c21-ff2e-4684-9136-d720fd008cfa",
+        "m_NodeBGuid": "a209a645-b165-4d27-ae0b-4cddaa8f5324",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "a209a645-b165-4d27-ae0b-4cddaa8f5324",
+        "m_NodeBGuid": "0b396d42-5812-457a-9d97-a9e6ab3e1c8e",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "c160151d-2b67-4bfb-a792-ca81b83cd7a5",
+        "m_NodeBGuid": "e747e037-788f-40eb-b942-5f88d947e3dd",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "e747e037-788f-40eb-b942-5f88d947e3dd",
+        "m_NodeBGuid": "8925234e-035c-424b-ba3e-ede90a25b0d8",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "8925234e-035c-424b-ba3e-ede90a25b0d8",
+        "m_NodeBGuid": "40da6d24-b1f5-4afd-b2f3-3357a8a546c4",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "40da6d24-b1f5-4afd-b2f3-3357a8a546c4",
+        "m_NodeBGuid": "5708e9ba-8773-42fc-9c12-5f96bfcd5c0d",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "0b396d42-5812-457a-9d97-a9e6ab3e1c8e",
+        "m_NodeBGuid": "edc2673f-6dad-4715-821c-d352cf7b36e5",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "971ef2ad-5a69-4e74-a871-214034ef8535",
+        "m_NodeBGuid": "0b396d42-5812-457a-9d97-a9e6ab3e1c8e",
+        "m_JointAPart": 1,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "15f0d740-fdeb-40c5-9cc4-1f8714d27d7a",
+        "m_NodeBGuid": "df9f5c21-ff2e-4684-9136-d720fd008cfa",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "a209a645-b165-4d27-ae0b-4cddaa8f5324",
+        "m_NodeBGuid": "15f0d740-fdeb-40c5-9cc4-1f8714d27d7a",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "edc2673f-6dad-4715-821c-d352cf7b36e5",
+        "m_NodeBGuid": "a209a645-b165-4d27-ae0b-4cddaa8f5324",
+        "m_JointAPart": 0,
+        "m_JointBPart": 1
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "5708e9ba-8773-42fc-9c12-5f96bfcd5c0d",
+        "m_NodeBGuid": "2a4a73ee-b560-4583-a138-6257076522c6",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      },
+      {
+        "m_MaterialType": 3,
+        "m_NodeAGuid": "2a4a73ee-b560-4583-a138-6257076522c6",
+        "m_NodeBGuid": "df9f5c21-ff2e-4684-9136-d720fd008cfa",
+        "m_JointAPart": 1,
+        "m_JointBPart": 0
+      }
+    ],
+    "m_Pistons": [],
+    "m_Phases": [
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      },
+      {
+        "m_HydraulicPhaseGuid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68",
+        "m_PistonGuids": [],
+        "m_SplitJoints": []
+      }
+    ],
+    "m_Springs": []
+  },
+  "m_Budget": {
+    "m_Cash": 46000,
+    "m_Road": 100,
+    "m_Wood": 100,
+    "m_Steel": 100,
+    "m_Hydraulics": 1,
+    "m_Rope": 100,
+    "m_Cable": 0,
+    "m_Spring": 0,
+    "m_BungeeRope": 100,
+    "m_AllowWood": true,
+    "m_AllowSteel": true,
+    "m_AllowHydraulics": true,
+    "m_AllowRope": true,
+    "m_AllowCable": true,
+    "m_AllowSpring": true,
+    "m_AllowReinforcedRoad": true
+  },
+  "m_Settings": {
+    "m_HydraulicsControllerEnabled": false,
+    "m_Unbreakable": false,
+    "m_NoWater": false
+  },
+  "m_Workshop": {
+    "m_Id": "",
+    "m_LeaderboardId": "",
+    "m_Title": "",
+    "m_Description": "",
+    "m_Autoplay": false,
+    "m_Tags": []
+  },
+  "m_ModData": {},
+  "m_IsModded": false,
+  "m_Version": 24,
+  "m_ThemeStubKey": "ZenGardens",
+  "m_Anchors": [
+    {
+      "m_Pos": {
+        "x": -5.5,
+        "y": 8,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "aec3692f-d144-44f8-bc8b-86ede087fa3c"
+    },
+    {
+      "m_Pos": {
+        "x": 18.5,
+        "y": 10,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "1b45d804-90e5-4ddb-ad84-b2428cd51b73"
+    },
+    {
+      "m_Pos": {
+        "x": 6.5,
+        "y": 8,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "971ef2ad-5a69-4e74-a871-214034ef8535"
+    },
+    {
+      "m_Pos": {
+        "x": 10.5,
+        "y": 8,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "8253a697-6a3b-479c-8ecd-465e757092c4"
+    },
+    {
+      "m_Pos": {
+        "x": 10.5,
+        "y": 10,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "fdd36e24-8abb-41ff-adc9-96f2c0fc002c"
+    },
+    {
+      "m_Pos": {
+        "x": 18.5,
+        "y": 8,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "3fd40446-0f27-4da5-8b4c-64f693a1dc71"
+    },
+    {
+      "m_Pos": {
+        "x": 6.5,
+        "y": 10,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "741bdd4c-8e06-454d-962a-ea42142b1064"
+    },
+    {
+      "m_Pos": {
+        "x": -5.5,
+        "y": 6,
+        "z": 0
+      },
+      "m_IsAnchor": true,
+      "m_IsSplit": false,
+      "m_Guid": "ce200769-e287-47cf-8d5b-31384c06a9ad"
+    }
+  ],
+  "m_Phases": [
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af"
+    },
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc"
+    },
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68"
+    }
+  ],
+  "m_ZedAxisVehicles": [
+    {
+      "m_Pos": {
+        "x": 1.5,
+        "y": 6
+      },
+      "m_PrefabName": "Steamboat",
+      "m_Guid": "fea8702a-f02d-4f08-baa0-1e9561f5fdd0",
+      "m_TimeDelay": 0,
+      "m_Speed": 4.5
+    }
+  ],
+  "m_Vehicles": [
+    {
+      "m_DisplayName": "",
+      "m_Pos": {
+        "x": -7.75,
+        "y": 8.109999656677246
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_PrefabName": "Van",
+      "m_TargetSpeed": 2.5,
+      "m_Mass": 24,
+      "m_BrakingForceMultiplier": 1,
+      "m_StrengthMethod": 0,
+      "m_Acceleration": 5,
+      "m_MaxSlope": 0,
+      "m_DesiredAccleration": 2.499999523162842,
+      "m_ShocksMultiplier": 1,
+      "m_RotationDegrees": 0,
+      "m_TimeDelay": 0,
+      "m_IdleOnDownhill": false,
+      "m_Flipped": false,
+      "m_OrderedCheckpoints": true,
+      "m_Guid": "c0223b1f-4350-4453-8aa4-9a1fecc03c68",
+      "m_CheckpointGuids": [
+        "9e2c2e10-de7d-4c1d-9dea-774630aa9a5a",
+        "454f9df3-9cf3-4b59-bf91-3f897b80e50b"
+      ]
+    },
+    {
+      "m_DisplayName": "",
+      "m_Pos": {
+        "x": 20.75,
+        "y": 8.109999656677246
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_PrefabName": "Taxi",
+      "m_TargetSpeed": 5,
+      "m_Mass": 16,
+      "m_BrakingForceMultiplier": 1.7000000476837158,
+      "m_StrengthMethod": 0,
+      "m_Acceleration": 5,
+      "m_MaxSlope": 0,
+      "m_DesiredAccleration": 2,
+      "m_ShocksMultiplier": 1,
+      "m_RotationDegrees": 0,
+      "m_TimeDelay": 0,
+      "m_IdleOnDownhill": true,
+      "m_Flipped": true,
+      "m_OrderedCheckpoints": false,
+      "m_Guid": "b016c382-d812-4840-a6fe-cc5029197056",
+      "m_CheckpointGuids": [
+        "d0f2418b-2cac-4261-889d-26b1433334fd"
+      ]
+    },
+    {
+      "m_DisplayName": "",
+      "m_Pos": {
+        "x": -11,
+        "y": 8.109999656677246
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_PrefabName": "PickupTruck",
+      "m_TargetSpeed": 2,
+      "m_Mass": 20,
+      "m_BrakingForceMultiplier": 2.499999523162842,
+      "m_StrengthMethod": 0,
+      "m_Acceleration": 8.5,
+      "m_MaxSlope": 0,
+      "m_DesiredAccleration": 0.800000011920929,
+      "m_ShocksMultiplier": 1,
+      "m_RotationDegrees": 0,
+      "m_TimeDelay": 0,
+      "m_IdleOnDownhill": false,
+      "m_Flipped": false,
+      "m_OrderedCheckpoints": false,
+      "m_Guid": "748b91a1-99ae-49b8-b00b-b67a6f128420",
+      "m_CheckpointGuids": []
+    }
+  ],
+  "m_VehicleStopTriggers": [
+    {
+      "m_Pos": {
+        "x": 8.5,
+        "y": 10.100000381469727
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_Height": 1.75,
+      "m_RotationDegrees": 0,
+      "m_Flipped": false,
+      "m_PrefabName": "VictoryFlag",
+      "m_StopVehicleGuid": "c0223b1f-4350-4453-8aa4-9a1fecc03c68"
+    },
+    {
+      "m_Pos": {
+        "x": 24,
+        "y": 10.100000381469727
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_Height": 1.75,
+      "m_RotationDegrees": 0,
+      "m_Flipped": false,
+      "m_PrefabName": "VictoryFlag",
+      "m_StopVehicleGuid": "b016c382-d812-4840-a6fe-cc5029197056"
+    },
+    {
+      "m_Pos": {
+        "x": 8.5,
+        "y": 8.100000381469727
+      },
+      "m_Rot": {
+        "x": 0,
+        "y": 0,
+        "z": 0,
+        "w": 1
+      },
+      "m_Height": 1.75,
+      "m_RotationDegrees": 0,
+      "m_Flipped": false,
+      "m_PrefabName": "VictoryFlag",
+      "m_StopVehicleGuid": "748b91a1-99ae-49b8-b00b-b67a6f128420"
+    }
+  ],
+  "m_EventTimelines": [
+    {
+      "m_CheckpointGuid": "",
+      "m_Stages": [
+        {
+          "m_Units": [
+            {
+              "m_Guid": "b016c382-d812-4840-a6fe-cc5029197056"
+            },
+            {
+              "m_Guid": "c0223b1f-4350-4453-8aa4-9a1fecc03c68"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "b87e4b9a-d5a9-44f3-b302-27447ebc23af"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "fea8702a-f02d-4f08-baa0-1e9561f5fdd0"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "79d8e002-f611-445f-ab1e-9c3662d1f151"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "bbb6eb00-d5b4-46cc-9230-e972b9d2a4cc"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "9b6268d2-06ad-42d2-bb26-a5559b5234a8"
+            },
+            {
+              "m_Guid": "748b91a1-99ae-49b8-b00b-b67a6f128420"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "b7be34b9-c0ea-4d08-8b31-fa15fac98d68"
+            }
+          ]
+        },
+        {
+          "m_Units": [
+            {
+              "m_Guid": "d3a90e18-a970-4821-9d5a-0ac39e614639"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "m_Checkpoints": [
+    {
+      "m_Pos": {
+        "x": 15.5,
+        "y": 8.75
+      },
+      "m_PrefabName": "Checkpoint",
+      "m_VehicleGuid": "b016c382-d812-4840-a6fe-cc5029197056",
+      "m_VehicleRestartPhaseGuid": "79d8e002-f611-445f-ab1e-9c3662d1f151",
+      "m_TriggerTimeline": false,
+      "m_StopVehicle": true,
+      "m_ReverseVehicleOnRestart": true,
+      "m_Guid": "d0f2418b-2cac-4261-889d-26b1433334fd"
+    },
+    {
+      "m_Pos": {
+        "x": 8.5,
+        "y": 8.75
+      },
+      "m_PrefabName": "Checkpoint",
+      "m_VehicleGuid": "c0223b1f-4350-4453-8aa4-9a1fecc03c68",
+      "m_VehicleRestartPhaseGuid": "9b6268d2-06ad-42d2-bb26-a5559b5234a8",
+      "m_TriggerTimeline": false,
+      "m_StopVehicle": true,
+      "m_ReverseVehicleOnRestart": false,
+      "m_Guid": "9e2c2e10-de7d-4c1d-9dea-774630aa9a5a"
+    },
+    {
+      "m_Pos": {
+        "x": 14.5,
+        "y": 8.75
+      },
+      "m_PrefabName": "Checkpoint",
+      "m_VehicleGuid": "c0223b1f-4350-4453-8aa4-9a1fecc03c68",
+      "m_VehicleRestartPhaseGuid": "d3a90e18-a970-4821-9d5a-0ac39e614639",
+      "m_TriggerTimeline": false,
+      "m_StopVehicle": true,
+      "m_ReverseVehicleOnRestart": true,
+      "m_Guid": "454f9df3-9cf3-4b59-bf91-3f897b80e50b"
+    }
+  ],
+  "m_TerrainStretches": [
+    {
+      "m_Pos": {
+        "x": -5.5,
+        "y": 3,
+        "z": 0
+      },
+      "m_PrefabName": "Terrain_BookEndC",
+      "m_HeightAdded": 3,
+      "m_RightEdgeWaterHeight": 5.5,
+      "m_TerrainIslandType": 0,
+      "m_VariantIndex": 2,
+      "m_Flipped": false,
+      "m_LockPosition": false,
+      "m_Hidden": false
+    },
+    {
+      "m_Pos": {
+        "x": 22.5,
+        "y": 5,
+        "z": 0
+      },
+      "m_PrefabName": "Terrain_BookEndB",
+      "m_HeightAdded": 5,
+      "m_RightEdgeWaterHeight": 0,
+      "m_TerrainIslandType": 0,
+      "m_VariantIndex": 1,
+      "m_Flipped": true,
+      "m_LockPosition": false,
+      "m_Hidden": false
+    },
+    {
+      "m_Pos": {
+        "x": 8.5,
+        "y": 3,
+        "z": 0
+      },
+      "m_PrefabName": "Terrain_MiddleB",
+      "m_HeightAdded": 3,
+      "m_RightEdgeWaterHeight": 3,
+      "m_TerrainIslandType": 1,
+      "m_VariantIndex": 1,
+      "m_Flipped": false,
+      "m_LockPosition": false,
+      "m_Hidden": false
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 3,
+        "z": 0
+      },
+      "m_PrefabName": "Terrain_MiddleC",
+      "m_HeightAdded": 3,
+      "m_RightEdgeWaterHeight": 0,
+      "m_TerrainIslandType": 1,
+      "m_VariantIndex": 2,
+      "m_Flipped": false,
+      "m_LockPosition": false,
+      "m_Hidden": false
+    }
+  ],
+  "m_Platforms": [
+    {
+      "m_Pos": {
+        "x": 8.5,
+        "y": 10
+      },
+      "m_Width": 4,
+      "m_Height": 2,
+      "m_Flipped": false,
+      "m_Solid": false
+    },
+    {
+      "m_Pos": {
+        "x": 20.5,
+        "y": 10
+      },
+      "m_Width": 4,
+      "m_Height": 2,
+      "m_Flipped": false,
+      "m_Solid": false
+    }
+  ],
+  "m_Ramps": [],
+  "m_VehicleRestartPhases": [
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "79d8e002-f611-445f-ab1e-9c3662d1f151",
+      "m_VehicleGuid": "b016c382-d812-4840-a6fe-cc5029197056"
+    },
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "9b6268d2-06ad-42d2-bb26-a5559b5234a8",
+      "m_VehicleGuid": "c0223b1f-4350-4453-8aa4-9a1fecc03c68"
+    },
+    {
+      "m_TimeDelay": 0,
+      "m_Guid": "d3a90e18-a970-4821-9d5a-0ac39e614639",
+      "m_VehicleGuid": "c0223b1f-4350-4453-8aa4-9a1fecc03c68"
+    }
+  ],
+  "m_FlyingObjects": [],
+  "m_Rocks": [],
+  "m_WaterBlocks": [
+    {
+      "m_Pos": {
+        "x": 0.5,
+        "y": 2.75,
+        "z": 0
+      },
+      "m_Width": 12,
+      "m_Height": 5.5,
+      "m_LockPosition": false
+    },
+    {
+      "m_Pos": {
+        "x": 14.500499725341797,
+        "y": 1.5,
+        "z": 0
+      },
+      "m_Width": 7.99899959564209,
+      "m_Height": 3,
+      "m_LockPosition": false
+    }
+  ],
+  "m_CustomShapes": [],
+  "m_SupportPillars": [],
+  "m_Pillars": []
+}

@@ -1,6 +1,6 @@
 #output files
-*.xlsx
-*.json
+2023-04-17_FullClean.json
+FullAPI_Download_5p.json
 
 #cache files
 *.pyc

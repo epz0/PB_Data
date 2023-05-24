@@ -1,6 +1,11 @@
 #output files
-2023-04-17_FullClean.json
-FullAPI_Download_5p.json
+mp4togif.py
+.gitignore
 
 #cache files
 *.pyc
+
+#folders
+rawdata/
+export/
+vid-img/

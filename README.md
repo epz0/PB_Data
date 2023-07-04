@@ -1,4 +1,4 @@
-# DSX_Viz
-Method for Design Space Visualisation and Exploration
+# DS_Viz
+Method for Design Space Visualisation
 
 

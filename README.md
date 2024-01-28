@@ -1,4 +1,4 @@
-# _Poly Bridge 2_ data retrieval scripts
+# _Poly Bridge 2_ data retrieval 
 This repository contains code to help researchers and players to download information from the _Poly Bridge 2_ solutions gallery. You can download both the entries' information (win/fail, budget, etc.) and the video/thumbnail.
 
 ## Running the code ##

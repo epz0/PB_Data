@@ -1,3 +1,12 @@
+"""The gallery data module has the code to download and process entries from PB2 gallery.
+
+Functions:
+    DownloadAPI: returns a json file with the downloaded entries from the gallery.
+    CleanFullDump: returns a json and/or Excel file with the clean entries from the gallery.
+    DownloadEntriesVid: downloads the videos/thumbnails for the entries retrieved.
+    AllEntriesForLevel: filters the entries downloaded to get all entries for a specific level.
+"""
+
 import json
 import requests
 import time
@@ -7,9 +16,17 @@ from datetime import datetime
 import urllib.request
 import urllib.response
 
-# function to download gallery info. filename is a string, number of pages optional.
-def DownloadAPI(fileNameJson, nPages=None):
 
+def DownloadAPI(fileNameJson, nPages=None):
+    """Returns a json file with entries data from the gallery.
+
+    Args:
+        fileNameJson (string): name of the json file that will be saved.
+        nPages (integer, optional): number of pages that should be downloaded. Defaults to None, so all pages/entries will be downloaded.
+
+    Returns:
+        savedfile: json file with the gallery dump.
+    """
 # file name - date
     namedate = datetime.now().date()
 
@@ -20,9 +37,14 @@ def DownloadAPI(fileNameJson, nPages=None):
     if not rawdatafolder.exists():
         rawdatafolder.mkdir()
 
+    # filename if not passed
+    if fileNameJson is None:
+        fileNameJson = 'gallery_download'
 
     # if nPages is specified
     if nPages:
+
+        fileNameJson = f'{fileNameJson}_{nPages}p_'
 
         # api address
         url2 = (
@@ -54,7 +76,10 @@ def DownloadAPI(fileNameJson, nPages=None):
             json.dump(all_data, f, ensure_ascii=False, indent=4)
 
     else: # nPages not specified --> gets all the data available on the API
-        print('we here')
+        print('no number of pages - getting all')
+
+        fileNameJson = f'{fileNameJson}_allp_'
+
         # getting metada to figure out number of pages
         url1 = ("http://pb2-authed-api.drycactus.com/v1/public/gallery/entries/read/all")
         allAPI = requests.get(url1)
@@ -92,13 +117,22 @@ def DownloadAPI(fileNameJson, nPages=None):
     print(f"Downloaded {fileNameJson} at {datetime.now()} saved in {Path.cwd().parents[0]}/rawdata/")
 
     # saved file name and location
-    savedfile = (f'{rawdatafolder}\{fileNameJson}_{namedate}.json')
+    savedfile = (f'{rawdatafolder}/{fileNameJson}_{namedate}.json')
 
     return savedfile
 
-# function to clear data dumped & export .json & .xlsx
-def CleanFullDump(filedir, exportJson=None, exportExcel=None):
 
+def CleanFullDump(filedir, exportJson=None, exportExcel=None):
+    """Cleans and exports the output as json and/or Excel files.
+
+    Args:
+        filedir (string): path to the original json file.
+        exportJson (bool, optional): defines if a json file with the clean data should be saved. Defaults to None (does not save).
+        exportExcel (bool, optional): defines if an Excel file with the clean data should be saved. Defaults to None (does not save).
+
+    Returns:
+        df_CleanFull: df with clean data.
+    """
 # folder to export clean data
     exportdatafolder = Path(f"{Path.cwd().parents[0]}/export/")
 
@@ -120,7 +154,7 @@ def CleanFullDump(filedir, exportJson=None, exportExcel=None):
     df_nodup = df_data[~df_data.duplicated()]
 
     # remove self/test ids created when developing the method
-    dirMain = Path(r'C:\DSX_Vis\support') # your path for SelfLevelsIDs.csv file
+    dirMain = Path(r'C:/Py/DSX_Vis/support') #! your path for SelfLevelsIDs.csv file
     df_IDsExc = pd.read_csv(f'{dirMain}/SelfLevelsIDs.csv')
     idsList = df_IDsExc['ID'].values.tolist()
     df_CleanFull = df_nodup[~df_nodup['id'].isin(idsList)]
@@ -144,11 +178,15 @@ def CleanFullDump(filedir, exportJson=None, exportExcel=None):
     return df_CleanFull
 
 
-# Function to download entries' videos and thumbnails of a particular level
-# fileFullPath is the full path of the clean data (.json)
-# vidType is the video file format (.mp4 or .dat)
-
 def DownloadEntriesVid(fileFullPath, originalBudget, levelName=None, vidType=None):
+    """ Function to download entries' videos and thumbnails of a particular level.
+
+    Args:
+        fileFullPath (path): Full path of the clean data (.json).
+        originalBudget (float): Original budget for the level.
+        levelName (string, optional): Name of the level (as in the gallery api). Defaults to None.
+        vidType (string, optional): Defines the video file format (.mp4 or .dat). Defaults to None (.dat).
+    """
 
     # folder to save the videos and thumbnails
     desktopfolder = Path(f"{Path.cwd().parents[0]}/vid-img/{levelName.replace(' ', '')}/")
@@ -198,10 +236,16 @@ def DownloadEntriesVid(fileFullPath, originalBudget, levelName=None, vidType=Non
     print(f"Download conclude at {datetime.now()} and files saved in {desktopfolder}")
 
 
-# function to filter data to level of interest only
-# filePath is the full path for the clean data .json
-# levelName is the name of the level of interest
 def AllEntriesForLevel(filePath, levelName):
+    """Filter data to level of interest only.
+
+    Args:
+        filePath (path): Full path for the clean data .json
+        levelName (string): Name of the level of interest (as in the gallery api).
+
+    Returns:
+        df_filtered: df with entries only for the level of interest.
+    """    
     fileDir = Path.cwd().parents[0]
 
     #read clean .json file

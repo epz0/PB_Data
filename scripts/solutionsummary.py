@@ -1,13 +1,24 @@
-#%%
+"""This module contains a function that gets all solutions json files and summarises them.
+
+Returns:
+    solutions_summary: Function to get all solutions json files and summarise them.
+"""
 import pandas as pd
 from pathlib import Path
 import numpy as np
 import json
 import math
 
-#%%
-
 def solutions_summary(dir_data, saveExcel=True):
+    """Returns a df with the summary of all solutions available as save files (json).
+
+    Args:
+        dir_data (string): Path to the parent folder where the save files are
+        saveExcel (bool, optional): Defines if a excel file dumping the df should be saved. Defaults to True.
+
+    Returns:
+        df_sols: Df summarising the solutions found.
+    """
 
     #! finding solutions' save files
     pth = Path(dir_data)
